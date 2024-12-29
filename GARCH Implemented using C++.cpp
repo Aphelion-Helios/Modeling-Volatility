@@ -2,7 +2,6 @@
 
 // Parameter estimation for GARCH(1,1) model
 // Fitted to S&P500 index levels
-// By Fabrice Douglas Rouah, 2009
 // For Visual C++.Net Version 7.1
 
 //#include "stdafx.h"
